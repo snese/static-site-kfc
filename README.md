@@ -1,2 +1,12 @@
-# static-site-kfc
-A static mirror site of KFC
+# KFC 靜態網站
+參考網址: [KFC](https://www.kfc.com/)
+
+## 目標
+參考 KFC 網站直接刻出靜態網站。
+
+動態可以不用做，但靜態看起來要接近一模一樣，包含視窗大小拉動時的感覺。
+
+## 流程
+將這個 repo. fork 到自己的專案直接開工，請定期提交 pull request 整併到這裡。
+
+資料夾的結構請自行定義，這邊沒有做任何限制。
